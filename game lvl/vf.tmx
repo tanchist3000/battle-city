@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="water block" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/blocks/water block.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="2" name="brick block" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/blocks/brick block.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="3" name="bush block" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/blocks/bush block.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="4" name="flag" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/blocks/flag.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="5" name="iron block" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/blocks/iron block.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="6" name="enemy" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/enemy/enemy.png" width="40" height="40"/>
+ </tileset>
+ <tileset firstgid="7" name="player" tilewidth="40" tileheight="40">
+  <image source="battle-city/image/player/player.png" width="40" height="40"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzllEsKwCAMRP30c/8bd6MQZEymicVFHwxd1OSJhOSUUt6U1RQRxJdeydm+B+md3dfr7YzeAoLOj3eVfWvL+F/G887IbXlnPTRQn+hcRLwRGC+aLU8N472VHtZcebz9Td/O9CqvxeiOehmY/brLi7iCXs1diWje2XnkRnVo3zJea09rtQx/rd2RB5f6AWY=
+  </data>
+ </layer>
+</map>
